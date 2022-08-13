@@ -22,7 +22,9 @@ sudo apt install python3
  
  ```
 * Install pip
+```
 python -m pip install --upgrade pip
+```
 
 * Install Requirements (Ubuntu)
 ```
