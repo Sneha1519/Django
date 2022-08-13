@@ -35,6 +35,7 @@ python manage.py runserver
 Open Webapp in browser
 
 127.0.0.1:8000
+
 Populate your own property database
 
 127.0.0.1:8000/admin
