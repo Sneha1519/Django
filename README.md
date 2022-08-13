@@ -14,7 +14,7 @@ python
 sudo apt install python3
 Installation
 Clone the repo
-
+https://github.com/Sneha1519/Django.git
 Install pip
 python -m pip install --upgrade pip
 Install Requirements (Ubuntu)
