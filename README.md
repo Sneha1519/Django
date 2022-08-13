@@ -14,7 +14,7 @@ python
 sudo apt install python3
 Installation
 Clone the repo
-git clone https://github.com/simanfathima/Property-Management-System.git
+
 Install pip
 python -m pip install --upgrade pip
 Install Requirements (Ubuntu)
